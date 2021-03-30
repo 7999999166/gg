@@ -19,7 +19,7 @@ justify-content: space-around;
 height: 10vh;
 align-items: center;
 background-color: rgb(69, 163, 251);
-width: 98.9%;
+width: 100%;
 z-index:2 ;
 }
 .aa{
