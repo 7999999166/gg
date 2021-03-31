@@ -56,6 +56,6 @@ z-index:2 ;
     <div class="aa" style="flex-grow: 1"><Link to="/about-us"><span class="cc">About-Us</span></Link></div>
     <div class="aa ff" style="flex-grow: 8"><Link to="/"><span class="mm">G&G Steel</span></Link></div>
     <div class="aa" style="flex-grow: 1"><Link to="/login"><span class="cc">Login</span></Link></div>
-    <div class="aa" style="flex-grow: 1"><Link to="/cart"><img src="cart.svg" alt="cart" class="yy"></Link></div>
+    <div class="aa" style="flex-grow: 1"><img src="cart.svg" alt="cart" class="yy"></div>
  </div>
  <RouterView />

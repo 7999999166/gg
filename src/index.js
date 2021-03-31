@@ -12,7 +12,7 @@ import Cart from './pages/Cart.svelte';
   { path: '/products', component: Product },
   { path: '/about-us', component: About },
   { path: '/login', component: Login },
-  { path: '/cart', component: Cart }
+  
   ])
 
 let app = new App({
